@@ -11,7 +11,10 @@ Here are my notes from projects I've done in Google Code-In 2017
   
   * I created a JSON file called "environmentInfoScreen.ui" with the code:
   ```   "type": "EnvironmentInfoScreen",
+   {
+    "type": "EnvironmentInfoScreen",
     "contents": {
         "type": "UILabel",
         "text": "Environment Info"
-  
+    }
+}
