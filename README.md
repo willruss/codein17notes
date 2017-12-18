@@ -18,4 +18,5 @@ Here are my notes from projects I've done in Google Code-In 2017
         "text": "Environment Info"
     }
 }
+```
 * Got error "showScreen': java.lang.NullPointerException" in Terasology after running "showScreen environmentInfoScreeN" in the console
