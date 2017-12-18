@@ -19,4 +19,4 @@ Here are my notes from projects I've done in Google Code-In 2017
     }
 }
 ```
-* Got error "showScreen': java.lang.NullPointerException" in Terasology after running "showScreen environmentInfoScreeN" in the console
+* Got error "showScreen': java.lang.NullPointerException" in Terasology after running "showScreen environmentInfoScreen" in the console
